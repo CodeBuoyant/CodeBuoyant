@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/company/codebuoyant">LinkedIn</a>
 </p>
 
----
+<br />
 
 <p align="center">
 Code Buoyant is a group of experienced and passionate persons who has expertise in designing, development, management, writing, and many other aspects related to the information technology field. Every project we work on, we think of it as our own. Our clients are our family and we are happy to face any challenges to provide the best services to our clients.
